@@ -22,7 +22,7 @@ libmpv1 permite a otras aplicaciones (como Flet Desktop) mostrar contenido HTML,
 En el caso de Flet, se usa indirectamente a través de un componente embebido tipo WebView (navegador embebido) que depende de MPV en Linux.
 
 Lo que permite:
-✅ Mostrar interfaces basadas en HTML/CSS/JS en una ventana nativa.
-✅ Renderizar páginas como si fuera un mini navegador.
-✅ Controlar ese rendering desde tu código Python.
-✅ Mostrar contenido multimedia si hace falta.
+<p>✅ Mostrar interfaces basadas en HTML/CSS/JS en una ventana nativa.
+<p>✅ Renderizar páginas como si fuera un mini navegador.
+<p>✅ Controlar ese rendering desde tu código Python.
+<p>✅ Mostrar contenido multimedia si hace falta.
